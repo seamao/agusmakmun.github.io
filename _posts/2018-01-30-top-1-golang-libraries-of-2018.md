@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 10 Python libraries of 2018"
+title:  "Top 10 golang libraries of 2018"
 date:   2018-01-30 18:34:10 +0700
 categories: [python, django]
 ---
