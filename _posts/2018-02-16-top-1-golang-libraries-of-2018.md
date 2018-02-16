@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "1月15日总结"
+date:   2018-02-16
+categories: [golang, array]
+---
+
 # 1月15日总结
 
 ### 问题：求１０００以内的质数
